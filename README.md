@@ -1,0 +1,24 @@
+- Fox Application is an enterprise distribution application which uses Titanium Appcelerator Alloy framework to create Dynamic UI forms based on the XMl file
+structure.
+- It should implements the following UI componenets dynamically.
+  - Text Box
+  - Information
+  - Numerical
+  - Currency
+  - Repeatable Form : As time permits
+  - Expandable Form : As time permits
+  - Radio Buttons
+  - Check Boxes
+  - Drop Down
+  - State List
+  - Date
+  - Time
+  - Date nd Time
+  - Odomenter
+  - Camera
+  - Signature
+  - Calculation
+  - Email
+  - Drawing: uses ti.paint module
+  - Phone Number
+- It uses the third party tool to build the xml forms.
